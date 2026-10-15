@@ -1,5 +1,5 @@
 # CWE
-MATLAB toolbox to execute a Common Waveform Estimation (CWE) method developed by Takeda et al. (2010).
+Common Waveform Estimation (CWE) toolbox is a suite of MATLAB functions to estimate waveforms common across trials. From single/multi-channel EEG/MEG epochs, these functions estimate the number of waveforms common across trials, their delays in individual trials, and all the waveforms.
 
 Please see readme.pdf for more detailed information.
 
